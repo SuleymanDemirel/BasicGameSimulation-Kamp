@@ -1,0 +1,11 @@
+C:\Users\suley\source\repos\BasicGameSimulation\bin\Debug\netcoreapp2.1\BasicGameSimulation.deps.json
+C:\Users\suley\source\repos\BasicGameSimulation\bin\Debug\netcoreapp2.1\BasicGameSimulation.runtimeconfig.json
+C:\Users\suley\source\repos\BasicGameSimulation\bin\Debug\netcoreapp2.1\BasicGameSimulation.runtimeconfig.dev.json
+C:\Users\suley\source\repos\BasicGameSimulation\bin\Debug\netcoreapp2.1\BasicGameSimulation.dll
+C:\Users\suley\source\repos\BasicGameSimulation\bin\Debug\netcoreapp2.1\BasicGameSimulation.pdb
+C:\Users\suley\source\repos\BasicGameSimulation\obj\Debug\netcoreapp2.1\BasicGameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\BasicGameSimulation\obj\Debug\netcoreapp2.1\BasicGameSimulation.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\BasicGameSimulation\obj\Debug\netcoreapp2.1\BasicGameSimulation.AssemblyInfo.cs
+C:\Users\suley\source\repos\BasicGameSimulation\obj\Debug\netcoreapp2.1\BasicGameSimulation.dll
+C:\Users\suley\source\repos\BasicGameSimulation\obj\Debug\netcoreapp2.1\BasicGameSimulation.pdb
+C:\Users\suley\source\repos\BasicGameSimulation\obj\Debug\netcoreapp2.1\BasicGameSimulation.csprojAssemblyReference.cache
