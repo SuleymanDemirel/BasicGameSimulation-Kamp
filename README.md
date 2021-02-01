@@ -1,2 +1,2 @@
-# Kamp_BasicGameSimulation
+# BasicGameSimulation-Kamp
 Kodlama.io // Kamp Solutions.
